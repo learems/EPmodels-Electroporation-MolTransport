@@ -1,5 +1,5 @@
 # EPmodels-Electroporation-MolTransport
-Models coupling electroporation and molecular transport. 
+Models coupling electroporation and molecular transport at the single cell level. 
 
 These are the models presented in (Miklavcic and Towhidi 2010)[https://doi.org/10.2478/v10019-010-0002-3],(Li and Lin 2011)[https://doi.org/10.1016/j.bioelechem.2011.04.006], and (Smith 2011)[https://dspace.mit.edu/handle/1721.1/63085], which have been used in the study of Scuderi et al. (preprint link to be added). 
 
