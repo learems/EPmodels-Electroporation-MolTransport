@@ -7,4 +7,4 @@ MT2010 model is implemented directly in Comsol. See the file MT2010_nosolutions.
 
 S2011 and LL2011  models need to be created and run from Comsol with Matlab. 
 For S2011 and LL2011 models adapt the Main.m script to run the simulations. 
-After completing the simulations, see examples in the ExtractData.m script to extract the data from the models. 
+After completing the simulations, see examples in the ExtractData.m script to extract the data from the models via Comsol with Matlab. 
